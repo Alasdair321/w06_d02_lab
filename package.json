@@ -1,0 +1,22 @@
+{
+  "name": "w06_d02_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "painter.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alasdair321/w06_d02_lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alasdair321/w06_d02_lab/issues"
+  },
+  "homepage": "https://github.com/Alasdair321/w06_d02_lab#readme",
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
+}
